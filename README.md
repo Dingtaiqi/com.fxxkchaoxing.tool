@@ -55,9 +55,3 @@
 ## 💖 赞助
 
 你的 Star 是对我最大的支持，赞助与否随心就好~
-
-| 微信 | 支付宝 |
-|:---:|:---:|
-| ![微信](https://github.com/user-attachments/assets/df903b50-d5fb-4417-af6a-0f03df8f1967) | ![支付宝](https://github.com/user-attachments/assets/4acafcf4-9cbd-44ba-b827-7dbcb5c8cb2b) |
-
----
